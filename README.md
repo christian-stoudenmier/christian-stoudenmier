@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @christian-stoudenmier
-- 👀 I’m interested in Jiu-Jitsu.
-- 🌱 I’m currently studying for the AWS Associate Certification.
-- 📫 How to reach me, linkedIn or my E-Mail at stoudenmierchristian@gmail.com.
+- 👀 I’m interested in 
+- 🌱 I’m currently studying for 
+- 📫 How to reach me,
